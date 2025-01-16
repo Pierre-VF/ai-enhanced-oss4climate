@@ -1,12 +1,19 @@
+"""
+Adapter to Anthropic's LLM
+
+Note: this requires setting up an API key here: https://console.anthropic.com/settings/keys
+"""
+
 import os
 
 from anthropic import Anthropic as _Anthropic
 
-from . import LlmAdapter, LlmPromptResult
+from oss4climate_ai_enhanced.src.llm_adapters import LlmAdapter, LlmPromptResult
 
 
-class AnthropicAdapter(LlmAdapter):
-    def __init__(self):
+class AnthropicLlmAdapter(LlmAdapter):
+    def __init__(self, model: str = "claude-3-5-haiku-20241022"):
+        super().__init__()
         api_key = os.environ.get("ANTHROPIC_API_KEY")
         if api_key is None:
             raise EnvironmentError(
@@ -15,6 +22,7 @@ class AnthropicAdapter(LlmAdapter):
         self.__anthropic_client = _Anthropic(
             api_key=api_key,
         )
+        self.__model = model
 
     def _llm_prompt(self, system_request: str, user_request: str) -> LlmPromptResult:
         raw_res = self.__anthropic_client.messages.create(
@@ -26,7 +34,7 @@ class AnthropicAdapter(LlmAdapter):
                     "content": user_request,
                 },
             ],
-            model="claude-3-5-haiku-20241022",
+            model=self.__model,
         )
         return LlmPromptResult(
             text=raw_res.content[0].text,

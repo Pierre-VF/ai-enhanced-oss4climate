@@ -1,12 +1,13 @@
 import json
 import os
+from datetime import date
 
 import pandas as pd
 from dotenv import load_dotenv
 from tqdm import tqdm
 
 from oss4climate_ai_enhanced.data import FILE_LISTING_FEATHER, download_data
-from oss4climate_ai_enhanced.src.llm_adapters.anthropic import AnthropicAdapter
+from oss4climate_ai_enhanced.src.llm_adapters.anthropic import AnthropicLlmAdapter
 
 load_dotenv()
 download_data()
@@ -21,8 +22,11 @@ if os.path.exists(TARGET_JSON_FILE):
 else:
     augmented_context = {}
 
+# Adding date of scraping for traceability
+today_str = str(date.today())
 
-client = AnthropicAdapter()
+client = AnthropicLlmAdapter()
+
 for i, r in tqdm(df.head(N_REPOSITORIES_TO_ASSESS).iterrows()):
     url = r["url"]
     if url not in augmented_context.keys():
@@ -35,10 +39,12 @@ for i, r in tqdm(df.head(N_REPOSITORIES_TO_ASSESS).iterrows()):
             augmented_context[url] = {
                 "use_cases": use_cases_i,
                 "topics": topics_i,
+                "date": today_str,
             }
         except Exception:
             print("Error with URL={url} ({e})")
     else:
+        augmented_context[url]["date"] = today_str
         print(f"Skipping reprocessing of url={url}")
 
 

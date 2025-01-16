@@ -7,6 +7,18 @@ class LlmPromptResult:
     text: str
 
 
+class LlmOutputParseError(RuntimeError):
+    pass
+
+
+def parse_output_is_json_list(x: LlmPromptResult) -> list[str]:
+    try:
+        out = json.loads(x.text)
+    except Exception:
+        raise LlmOutputParseError(f"Unable to process {x.text}")
+    return out
+
+
 class LlmAdapter:
     """
     This is a template for what needs to be implemented for adapter classes
@@ -31,8 +43,7 @@ class LlmAdapter:
             """,
             user_request=readme_str,
         )
-        out = json.loads(x.text)
-        return out
+        return parse_output_is_json_list(x)
 
     def extract_topics(
         self,
@@ -47,5 +58,4 @@ class LlmAdapter:
             """,
             user_request=readme_str,
         )
-        out = json.loads(x.text)
-        return out
+        return parse_output_is_json_list(x)

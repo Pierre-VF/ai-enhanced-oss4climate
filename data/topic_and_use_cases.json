@@ -1,0 +1,802 @@
+{
+   "https://github.com/Coastal-Imaging-Research-Network/CoastSat": {
+      "use_cases": [
+         "Coastal Monitoring and Research",
+         "Shoreline Change Analysis",
+         "Beach Dynamics Assessment",
+         "Satellite Remote Sensing in Geomorphology",
+         "Coastal Management and Planning"
+      ],
+      "topics": [
+         "Remote Sensing",
+         "Coastal Engineering",
+         "Geospatial Analysis",
+         "Satellite Image Processing",
+         "Environmental Monitoring"
+      ]
+   },
+   "https://github.com/Coastal-Imaging-Research-Network/SurfRCaT": {
+      "use_cases": [
+         "Coastal monitoring and research",
+         "Camera calibration for oceanographic studies",
+         "Remote sensing of coastal environments",
+         "Image rectification for shoreline analysis",
+         "Geospatial image processing for marine applications"
+      ],
+      "topics": [
+         "Coastal Monitoring",
+         "Image Processing",
+         "Remote Sensing",
+         "Geospatial Technology",
+         "Camera Calibration"
+      ]
+   },
+   "https://github.com/Coastal-Imaging-Research-Network/coastalimagelib": {
+      "use_cases": [
+         "Coastal Environment Image Analysis",
+         "Georectification of Oblique Camera Views",
+         "Bathymetric Inversion and Surface Current Estimation",
+         "Statistical Coastal Image Product Generation",
+         "Coastal Camera Calibration and Image Processing"
+      ],
+      "topics": [
+         "coastal remote sensing",
+         "image processing",
+         "photogrammetry",
+         "coastal geomorphology",
+         "environmental monitoring"
+      ]
+   },
+   "https://github.com/Delphine-L/galaxy": {
+      "use_cases": [
+         "Bioinformatics Research Platform",
+         "Scientific Data Analysis",
+         "Genomics Workflow Management",
+         "Research Collaboration Tool",
+         "Open Source Research Software"
+      ],
+      "topics": [
+         "bioinformatics",
+         "data science",
+         "scientific computing",
+         "open-source research",
+         "web application"
+      ]
+   },
+   "https://github.com/Delphine-L/galaxy-hub": {
+      "use_cases": [
+         "Web Documentation Platform",
+         "Community Website Management",
+         "Scientific Project Documentation Hub",
+         "Open Source Project Communication Site",
+         "Technical Documentation Repository"
+      ],
+      "topics": [
+         "web development",
+         "documentation",
+         "scientific computing",
+         "open source",
+         "community platform"
+      ]
+   },
+   "https://github.com/Delphine-L/galaxy_codex": {
+      "use_cases": [
+         "Galaxy tool metadata collection and categorization",
+         "Automated tool repository parsing and metadata extraction",
+         "Interactive Galaxy tool statistics and filtering",
+         "Community-specific Galaxy tool documentation generation",
+         "Bioinformatics tool metadata aggregation and visualization"
+      ],
+      "topics": [
+         "galaxy tools",
+         "tool metadata",
+         "bioinformatics",
+         "scientific tool repository",
+         "tool extraction"
+      ]
+   },
+   "https://github.com/Delphine-L/planemo": {
+      "use_cases": [
+         "Bioinformatics Workflow Development",
+         "Scientific Software Tool Management",
+         "Galaxy Platform Tool Creation",
+         "Common Workflow Language Tool Development",
+         "Scientific Workflow Testing and Linting"
+      ],
+      "topics": [
+         "Command Line Utilities",
+         "Workflow Development",
+         "Galaxy Project",
+         "Common Workflow Language",
+         "Bioinformatics Tools"
+      ]
+   },
+   "https://github.com/Delphine-L/tools-iuc": {
+      "use_cases": [
+         "Bioinformatics Tool Development",
+         "Galaxy Workflow Management",
+         "Scientific Software Repository",
+         "Computational Biology Tool Distribution",
+         "Open Source Research Software Collaboration"
+      ],
+      "topics": [
+         "bioinformatics",
+         "galaxy tools",
+         "scientific computing",
+         "data analysis",
+         "computational biology"
+      ]
+   },
+   "https://github.com/Delphine-L/training-material": {
+      "use_cases": [
+         "bioinformatics training",
+         "scientific workflow documentation",
+         "tutorial generation",
+         "educational content management",
+         "open-source research training platform"
+      ],
+      "topics": [
+         "bioinformatics",
+         "training materials",
+         "scientific documentation",
+         "web development",
+         "open source education"
+      ]
+   },
+   "https://github.com/Delphine-L/usegalaxy-eu-tools": {
+      "use_cases": [
+         "Bioinformatics Tool Management",
+         "Galaxy Workflow Platform",
+         "Scientific Research Tool Repository",
+         "Community-Driven Tool Development",
+         "Open-Source Scientific Software Distribution"
+      ],
+      "topics": [
+         "Bioinformatics",
+         "Galaxy Platform",
+         "Scientific Workflow",
+         "Tool Management",
+         "Open Source Repositories"
+      ]
+   },
+   "https://github.com/EVerest/ext-RISE-V2G": {
+      "use_cases": [
+         "Electric Vehicle Charging Communication",
+         "Vehicle to Grid Power Management",
+         "EV Charging Station Interface",
+         "Smart Grid Integration",
+         "Interoperability Testing Platform"
+      ],
+      "topics": [
+         "Electric Vehicle Charging",
+         "Vehicle-to-Grid Technology",
+         "ISO Standards",
+         "Communication Protocols",
+         "Open Source Software"
+      ]
+   },
+   "https://github.com/EVerest/ext-mbedtls": {
+      "use_cases": [
+         "Embedded Systems Cryptography Library",
+         "SSL/TLS Protocol Implementation",
+         "X.509 Certificate Manipulation",
+         "Cryptographic Primitives for Secure Communication",
+         "Platform Security Architecture (PSA) Crypto API Reference Implementation"
+      ],
+      "topics": [
+         "Cryptography",
+         "Security Libraries",
+         "Network Protocols",
+         "Embedded Systems",
+         "Cryptographic API"
+      ]
+   },
+   "https://github.com/EVerest/linux_libnfc-nci": {
+      "use_cases": [
+         "Near Field Communication (NFC) Device Communication",
+         "NFC Tag Reading and Writing",
+         "Contactless Payment Integration",
+         "Mobile Device Pairing",
+         "Access Control and Security Authentication"
+      ],
+      "topics": [
+         "NFC",
+         "Linux",
+         "Embedded Systems",
+         "Communication Protocols",
+         "Network Programming"
+      ]
+   },
+   "https://github.com/EVerest/run-clang-format": {
+      "use_cases": [
+         "Code Formatting",
+         "Continuous Integration",
+         "Source Code Linting",
+         "Development Tools",
+         "Code Style Enforcement"
+      ],
+      "topics": [
+         "Code Formatting",
+         "Linting",
+         "Development Tools",
+         "Code Quality",
+         "Command Line Utilities"
+      ]
+   },
+   "https://github.com/EVerest/sphinx-multiversion": {
+      "use_cases": [
+         "Technical Documentation Generation",
+         "Software Project Version Management",
+         "Documentation Hosting and Versioning",
+         "Code Documentation Maintenance",
+         "Technical Writing and Publishing"
+      ],
+      "topics": [
+         "documentation",
+         "sphinx",
+         "documentation-generator",
+         "python",
+         "open source"
+      ]
+   },
+   "https://github.com/FarmBot/farmbot_system_rpi": {
+      "use_cases": [
+         "Raspberry Pi Single Board Computer System Development",
+         "IoT and Embedded Systems Programming with Elixir",
+         "Hardware Prototyping and Maker Projects",
+         "Educational Computing and Learning Electronics",
+         "Robotics and Automation Platform Development"
+      ],
+      "topics": [
+         "raspberry pi",
+         "embedded systems",
+         "elixir",
+         "linux",
+         "hardware"
+      ]
+   },
+   "https://github.com/FarmBot/farmbot_system_rpi4": {
+      "use_cases": [
+         "IoT Device Management",
+         "Embedded Systems Development",
+         "Robotics Control",
+         "Home Automation",
+         "Sensor Data Collection"
+      ],
+      "topics": [
+         "Embedded Systems",
+         "Raspberry Pi",
+         "IoT",
+         "Elixir Programming",
+         "Linux Systems"
+      ]
+   },
+   "https://github.com/FlexMeasures/default": {
+      "use_cases": [
+         "Home Assistant Integrations",
+         "Smart Home Automation Repositories",
+         "Open Source Smart Home Software Listing",
+         "Home Automation Component Management",
+         "IoT Repository Discovery"
+      ],
+      "topics": [
+         "home assistant",
+         "repository management",
+         "plugin store",
+         "open source",
+         "software distribution"
+      ]
+   },
+   "https://github.com/GeoStat-Framework/GSTools-Cython": {
+      "use_cases": [
+         "Geostatistical Field Modeling and Simulation",
+         "Spatial Random Field Generation",
+         "Variogram Estimation and Kriging",
+         "Geospatial Data Analysis and Visualization",
+         "Stochastic Environmental Modeling"
+      ],
+      "topics": [
+         "Geostatistics",
+         "Spatial Random Fields",
+         "Kriging",
+         "Variogram Estimation",
+         "Scientific Computing"
+      ]
+   },
+   "https://github.com/GoFlexH2020/flexoffer_manager": {
+      "use_cases": [
+         "Flexibility Management for Power Grid",
+         "Electrical Load Aggregation and Trading",
+         "Micro-grid Energy Resource Optimization",
+         "Real-time Energy Flexibility Analysis",
+         "Smart Grid Balancing and Resource Planning"
+      ],
+      "topics": [
+         "Energy Management Systems",
+         "Smart Grid Technology",
+         "Demand Response",
+         "Software for Utility Companies",
+         "Load Aggregation"
+      ]
+   },
+   "https://github.com/HendX/FontAwesome.swift": {
+      "use_cases": [
+         "Mobile App Development Icon Library",
+         "iOS User Interface Design",
+         "Swift Mobile Application UI Theming",
+         "Cross-Platform Icon Integration",
+         "Mobile App Icon Framework"
+      ],
+      "topics": [
+         "iOS Development",
+         "Icon Library",
+         "Font Management",
+         "User Interface",
+         "Swift Programming"
+      ]
+   },
+   "https://github.com/HendX/LPRTableView": {
+      "use_cases": [
+         "Mobile App UI/UX Enhancement",
+         "iOS List Management Tool",
+         "Custom Table View Reordering",
+         "User Interface Interaction Design",
+         "Mobile App Cell Manipulation"
+      ],
+      "topics": [
+         "iOS Development",
+         "User Interface",
+         "Table View",
+         "Swift",
+         "Mobile App UI Components"
+      ]
+   },
+   "https://github.com/HendX/herald-for-ios": {
+      "use_cases": [
+         "COVID-19 Contact Tracing",
+         "Epidemiology Proximity Detection",
+         "Mobile Device Infection Risk Estimation",
+         "Background Bluetooth Location Tracking",
+         "Cross-Platform Public Health Monitoring"
+      ],
+      "topics": [
+         "contact tracing",
+         "bluetooth proximity detection",
+         "mobile epidemiology",
+         "mobile app development",
+         "digital health"
+      ]
+   },
+   "https://github.com/IPCC-WG1/Atlas": {
+      "use_cases": [
+         "Climate Modeling and Analysis",
+         "Regional Climate Change Assessment",
+         "Interactive Climate Data Visualization",
+         "Climate Projection Research",
+         "Scientific Data Reproducibility"
+      ],
+      "topics": [
+         "Climate Change",
+         "Data Science",
+         "Regional Analysis",
+         "IPCC Reporting",
+         "Open Source Research"
+      ]
+   },
+   "https://github.com/IPCC-WG1/Chapter-7": {
+      "use_cases": [
+         "Climate Research",
+         "Climate Model Development",
+         "IPCC Assessment Report Analysis",
+         "Radiative Forcing Modeling",
+         "Greenhouse Gas Emissions Tracking"
+      ],
+      "topics": [
+         "Climate Science",
+         "IPCC Assessment Report",
+         "Climate Modeling",
+         "Radiative Forcing",
+         "Greenhouse Gas Analysis"
+      ]
+   },
+   "https://github.com/IdeGelis/torch-points3d-SiameseKPConv": {
+      "use_cases": [
+         "3D multiple change detection in point clouds",
+         "Point cloud registration",
+         "Urban 3D scene understanding",
+         "Semantic point cloud segmentation",
+         "Deep learning for 3D spatial analysis"
+      ],
+      "topics": [
+         "3D Point Cloud Analysis",
+         "Computer Vision",
+         "Machine Learning",
+         "Change Detection",
+         "Deep Learning"
+      ]
+   },
+   "https://github.com/JOSM/jmockit1": {
+      "use_cases": [
+         "Unit Testing Framework",
+         "Mocking Library for Java",
+         "Code Coverage Analysis Tool",
+         "Test Automation Utility",
+         "Software Testing Framework for Java Applications"
+      ],
+      "topics": [
+         "Java Testing Framework",
+         "Mocking Library",
+         "Unit Testing",
+         "Code Coverage",
+         "Java Development Tools"
+      ]
+   },
+   "https://github.com/JOSM/merge-jar-services": {
+      "use_cases": [
+         "Merging service definitions across multiple JAR files for Java projects",
+         "Consolidating service configurations in a single directory",
+         "Filtering out source and test JAR files during service merging",
+         "Ant build automation for service file management",
+         "Collecting service metadata from distributed Java libraries"
+      ],
+      "topics": [
+         "Ant Build Tool",
+         "Java Service Merging",
+         "Build Automation",
+         "JAR File Manipulation",
+         "Java Development Tools"
+      ]
+   },
+   "https://github.com/JOSM/tofix": {
+      "use_cases": [
+         "OpenStreetMap Collaborative Mapping",
+         "GIS Data Correction and Validation",
+         "Microtasking Geospatial Issues",
+         "OpenStreetMap Editor Plugin Development",
+         "Geospatial Data Quality Improvement"
+      ],
+      "topics": [
+         "OpenStreetMap",
+         "JOSM Plugin",
+         "Mapping Tools",
+         "Microtasking",
+         "Geospatial Editing"
+      ]
+   },
+   "https://github.com/MobilityData/gtfs-realtime-validator": {
+      "use_cases": [
+         "Public Transit Feed Validation",
+         "Transit Data Quality Assurance Tool",
+         "Real-time Transportation Tracking System",
+         "GTFS Realtime Data Compliance Checker",
+         "Public Transportation Information Verification"
+      ],
+      "topics": [
+         "Transit Data Validation",
+         "Public Transportation",
+         "GTFS",
+         "Real-time Transit Information",
+         "Open Source Software"
+      ]
+   },
+   "https://github.com/OSGP/chart-releaser": {
+      "use_cases": [
+         "Helm Chart Repository Management",
+         "Automated Helm Chart Release Creation",
+         "GitHub Releases for Chart Hosting",
+         "Chart Package and Index Generation",
+         "Continuous Integration for Helm Charts"
+      ],
+      "topics": [
+         "Helm Chart Release Management",
+         "GitHub Repositories",
+         "Continuous Integration",
+         "DevOps Tooling",
+         "Software Package Management"
+      ]
+   },
+   "https://github.com/OSGP/chart-releaser-action": {
+      "use_cases": [
+         "Helm Chart Publishing",
+         "GitHub Action for Chart Release",
+         "Self-Hosted Helm Repository Management",
+         "Automated Chart Versioning",
+         "GitHub Pages Chart Hosting"
+      ],
+      "topics": [
+         "helm",
+         "github-actions",
+         "chart-management",
+         "ci-cd",
+         "kubernetes"
+      ]
+   },
+   "https://github.com/OpenAgricultureFoundation/openag_ui": {
+      "use_cases": [
+         "Agriculture Technology",
+         "Precision Farming",
+         "Food Computer Control Panel",
+         "Indoor Crop Management",
+         "Research Agriculture Platform"
+      ],
+      "topics": [
+         "Web Development",
+         "User Interface",
+         "IoT",
+         "Agriculture Technology",
+         "Open Source Software"
+      ]
+   },
+   "https://github.com/OpenAgricultureFoundation/scratch-vm": {
+      "use_cases": [
+         "Educational Programming Environment for Children",
+         "Block-Based Visual Programming Tool",
+         "Interactive Coding Learning Platform",
+         "Visual Programming Language Runtime",
+         "Graphical Programming Interpreter for Kids"
+      ],
+      "topics": [
+         "Scratch Programming",
+         "Visual Programming Language",
+         "Educational Programming",
+         "Block-based Programming",
+         "Coding Platform"
+      ]
+   },
+   "https://github.com/OpenIPSL/OpenIPSL": {
+      "use_cases": [
+         "Power System Dynamic Analysis",
+         "Power System Simulation Modeling",
+         "Educational Power System Modeling",
+         "Research Network Simulation",
+         "Power System Stability Modeling"
+      ],
+      "topics": [
+         "Power Systems",
+         "Modelica",
+         "Simulation",
+         "Power Grid Modeling",
+         "Dynamic Analysis"
+      ]
+   },
+   "https://github.com/OpenTopography/RiverREM": {
+      "use_cases": [
+         "Topographic Visualization",
+         "River Landscape Mapping",
+         "Digital Elevation Model Processing",
+         "Geospatial Data Analysis",
+         "Open Source Cartography"
+      ],
+      "topics": [
+         "Digital Elevation Model",
+         "Geospatial Visualization",
+         "River Mapping",
+         "Topographic Analysis",
+         "Geospatial Data Processing"
+      ]
+   },
+   "https://github.com/PyPSA/PowerSimData": {
+      "use_cases": [
+         "Power Grid Simulation",
+         "Electrical Grid Modeling",
+         "Power Investment Cost Analysis",
+         "Simulation Engine Integration",
+         "Power Flow Study Software"
+      ],
+      "topics": [
+         "Power Grid Simulation",
+         "Energy Systems Modeling",
+         "Electrical Grid Analysis",
+         "Power Flow Study",
+         "Investment Cost Modeling"
+      ]
+   },
+   "https://github.com/PyPSA/cookiecutter-project": {
+      "use_cases": [
+         "Reproducible Scientific Research Project Template",
+         "Automated Data Analysis Workflow Generation",
+         "Research Project Scaffolding Tool",
+         "Configurable Scientific Publication Workflow",
+         "Academic Research Repository Standardization"
+      ],
+      "topics": [
+         "Research Project Templates",
+         "Reproducible Research",
+         "Scientific Workflow Automation",
+         "Python Data Science",
+         "Open Source Research Tools"
+      ]
+   },
+   "https://github.com/TemoaProject/temoa": {
+      "use_cases": [
+         "Energy System Modeling and Optimization",
+         "Energy Technology Assessment and Planning",
+         "Multi-Period Energy Infrastructure Investment Analysis",
+         "Regional Energy Scenario Exploration",
+         "Techno-Economic Energy Systems Simulation"
+      ],
+      "topics": [
+         "Energy Systems Modeling",
+         "Energy Optimization",
+         "Computational Modeling",
+         "Operations Research",
+         "Energy Planning"
+      ]
+   },
+   "https://github.com/Twisted-Fields/Arduino-FOC": {
+      "use_cases": [
+         "Brushless DC Motor Control for Robotics Projects",
+         "Precision Motion Control for Hobby Robotics and DIY Automation",
+         "Electronic Gimbal Stabilization Systems",
+         "Low-Cost Industrial Servo Motor Applications",
+         "Modular Motor Control for Hobby and Prototype Electronics"
+      ],
+      "topics": [
+         "Arduino Hardware Development",
+         "Robotics Motor Control",
+         "Embedded Systems Programming",
+         "BLDC Motor Control",
+         "Field Oriented Control (FOC)"
+      ]
+   },
+   "https://github.com/Twisted-Fields/ESP32-Arduino-FOC": {
+      "use_cases": [
+         "Robotics Motor Control",
+         "Drone and UAV Propulsion Systems",
+         "Electric Vehicle Motor Management",
+         "CNC Machine Motion Control",
+         "Hobby Electronics and DIY Robotics"
+      ],
+      "topics": [
+         "Motor Control",
+         "Field Oriented Control",
+         "Embedded Systems",
+         "Arduino Development",
+         "Robotics"
+      ]
+   },
+   "https://github.com/UMEP-dev/SUEWS": {
+      "use_cases": [
+         "Urban Climate Modeling",
+         "Meteorological Simulation Software",
+         "Urban Energy Balance Analysis",
+         "Environmental Engineering Research Tool",
+         "Local Scale Climate Prediction"
+      ],
+      "topics": [
+         "Urban Climate Modeling",
+         "Software Development",
+         "Meteorological Simulation",
+         "Environmental Computing",
+         "Scientific Software Engineering"
+      ]
+   },
+   "https://github.com/Vizzuality/redux-tools": {
+      "use_cases": [
+         "State Management Library for React Applications",
+         "Frontend Development Workflow Utility",
+         "JavaScript Application Architecture Tool",
+         "React Component Debugging and Monitoring",
+         "Cross-Application State Synchronization Framework"
+      ],
+      "topics": [
+         "State Management",
+         "JavaScript Libraries",
+         "Web Development",
+         "React Ecosystem",
+         "Frontend Framework"
+      ]
+   },
+   "https://github.com/alliander-opensource/PyFlow": {
+      "use_cases": [
+         "Visual Scripting Framework",
+         "Node-Based Programming",
+         "Code Generation Tool",
+         "Python Development Environment",
+         "Graph-Based Programming Interface"
+      ],
+      "topics": [
+         "visual scripting",
+         "python programming framework",
+         "node-based programming",
+         "python development tools",
+         "graph-based interface"
+      ]
+   },
+   "https://github.com/alliander-opensource/build-your-own-radar": {
+      "use_cases": [
+         "Technology Radar Visualization",
+         "Interactive Data Visualization Tool",
+         "Organizational Technology Trend Mapping",
+         "Web-Based Technology Assessment Dashboard",
+         "Radar Chart Generation Platform"
+      ],
+      "topics": [
+         "web visualization",
+         "data visualization",
+         "interactive charts",
+         "javascript libraries",
+         "web development tools"
+      ]
+   },
+   "https://github.com/alliander-opensource/fledge-south-modbus-c": {
+      "use_cases": [
+         "Industrial Control Systems Communication",
+         "IoT Device Data Acquisition",
+         "Manufacturing Equipment Monitoring",
+         "SCADA System Integration",
+         "Modbus Protocol Data Retrieval"
+      ],
+      "topics": [
+         "Network Communication",
+         "Modbus Protocol",
+         "C++ Plugin Development",
+         "IoT Infrastructure",
+         "System Integration"
+      ]
+   },
+   "https://github.com/alliander-opensource/moveit2": {
+      "use_cases": [
+         "Robotic Arm Motion Planning",
+         "Industrial Robotics Manipulation",
+         "Robot Kinematics Software Development",
+         "Automated Robot Control Systems",
+         "Commercial Robotics Application Prototyping"
+      ],
+      "topics": [
+         "Robotics",
+         "Motion Planning",
+         "Robot Manipulation",
+         "Open Source Software",
+         "ROS 2"
+      ]
+   },
+   "https://github.com/antagomir/CONCOCT": {
+      "use_cases": [
+         "Metagenomic Contigs Binning",
+         "Microbial Community Genome Separation",
+         "Genomic Sequence Clustering",
+         "Bioinformatics Sequence Analysis",
+         "Microbial Data Processing"
+      ],
+      "topics": [
+         "Bioinformatics",
+         "Metagenomics",
+         "Computational Biology",
+         "Genomics",
+         "Sequence Analysis"
+      ]
+   },
+   "https://github.com/antagomir/bioc-project": {
+      "use_cases": [
+         "Lesson Development",
+         "Curriculum Writing",
+         "Open Source Educational Materials",
+         "Community Collaborative Learning",
+         "Software Carpentry Training"
+      ],
+      "topics": [
+         "Carpentries",
+         "Lesson Development",
+         "Open Source Curriculum",
+         "Software Tutorials",
+         "Community Contributions"
+      ]
+   },
+   "https://github.com/antagomir/miaSim": {
+      "use_cases": [
+         "Microbiome data simulation for research modeling",
+         "Longitudinal microbial community simulation",
+         "Benchmarking quantitative models of microbial ecosystems",
+         "Computational microbiology research tools",
+         "Scientific modeling of bacterial population dynamics"
+      ],
+      "topics": [
+         "Microbiome Research",
+         "Data Simulation",
+         "Statistical Modeling",
+         "R Programming",
+         "Bioinformatics"
+      ]
+   }
+}

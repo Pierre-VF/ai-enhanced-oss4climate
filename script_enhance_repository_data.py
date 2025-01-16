@@ -14,7 +14,7 @@ download_data()
 df = pd.read_feather(FILE_LISTING_FEATHER).dropna()
 
 TARGET_JSON_FILE = "data/topic_and_use_cases.json"
-N_REPOSITORIES_TO_ASSESS = 50
+N_REPOSITORIES_TO_ASSESS = 200
 
 if os.path.exists(TARGET_JSON_FILE):
     with open(TARGET_JSON_FILE, mode="r") as f:

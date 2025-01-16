@@ -848,5 +848,2404 @@
          "Bioinformatics"
       ],
       "date": "2025-01-16"
+   },
+   "https://github.com/antagomir/mia_r3": {
+      "use_cases": [
+         "Microbiome Data Analysis",
+         "Taxonomic Profiling and Classification",
+         "Microbial Community Diversity Measurements",
+         "Metagenomic Sample Comparison",
+         "Microbiome Research and Bioinformatics"
+      ],
+      "topics": [
+         "Microbiome Analysis",
+         "Bioinformatics",
+         "Computational Biology",
+         "Microbial Ecology",
+         "Genomic Data Processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/antagomir/vegan": {
+      "use_cases": [
+         "Ecological community analysis",
+         "Vegetation diversity research",
+         "Ecological data ordination methods",
+         "Species distribution mapping",
+         "Environmental data visualization"
+      ],
+      "topics": [
+         "R Programming",
+         "Data Analysis",
+         "Ecology",
+         "Statistics",
+         "Scientific Computing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/aprsd": {
+      "use_cases": [
+         "Ham radio message gateway and command response system",
+         "APRS-IS network message processing with plugin architecture",
+         "Amateur radio communication and location tracking",
+         "Email communication via ham radio",
+         "Weather and time information retrieval for ham radio operators"
+      ],
+      "topics": [
+         "ham radio",
+         "aprs message gateway",
+         "amateur radio communication",
+         "python networking",
+         "radio communication plugins"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/dbase-rs": {
+      "use_cases": [
+         "Database File Conversion",
+         "Legacy Database Management",
+         "Geographic Information Systems (GIS) Data Handling",
+         "Historical Data Archival",
+         "Data Migration for Older Software Systems"
+      ],
+      "topics": [
+         "Database",
+         "File Handling",
+         "Data Exchange",
+         "Rust Library",
+         "Database File Formats"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/deep_merge": {
+      "use_cases": [
+         "Configuration Management",
+         "Recursive Data Structure Merging",
+         "Custom Struct Merging",
+         "Nested Map Manipulation",
+         "Extensible Deep Merge Utility"
+      ],
+      "topics": [
+         "elixir",
+         "data manipulation",
+         "configuration management",
+         "functional programming",
+         "library development"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/geojson-mapnikify": {
+      "use_cases": [
+         "Geographic data visualization and styling",
+         "Mapnik XML stylesheet generation",
+         "GeoJSON map rendering transformation",
+         "Cartographic data processing",
+         "Web mapping stylesheet creation"
+      ],
+      "topics": [
+         "geospatial data",
+         "mapnik",
+         "xml",
+         "map rendering",
+         "gis tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/lectionary-js": {
+      "use_cases": [
+         "Christian Church Liturgical Calendar Management",
+         "Sunday Readings and Propers Calculation",
+         "Devotional Planning Tool for Religious Organizations",
+         "Hymnal Reference and Lectionary Tracking",
+         "Interactive Web Application for Church Calendar Services"
+      ],
+      "topics": [
+         "Christian Liturgy",
+         "Church Calendar",
+         "Religious Software",
+         "Web Development",
+         "React Application"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/oauth2": {
+      "use_cases": [
+         "OAuth Authentication Library for Elixir Applications",
+         "Third-Party Service Authentication Middleware",
+         "Web Application Single Sign-On Implementation",
+         "API Integration with OAuth 2.0 Providers",
+         "Secure Token Management and Refresh Mechanism"
+      ],
+      "topics": [
+         "Authentication",
+         "OAuth2",
+         "Web Development",
+         "Identity Management",
+         "Elixir Library"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/brycejohnston/ssh-action": {
+      "use_cases": [
+         "Continuous Deployment",
+         "Remote Server Management",
+         "Infrastructure Automation",
+         "Cloud Server Configuration",
+         "DevOps Workflow Automation"
+      ],
+      "topics": [
+         "GitHub Actions",
+         "SSH",
+         "Remote Command Execution",
+         "DevOps",
+         "Cloud Infrastructure"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/camsys/ridepilot": {
+      "use_cases": [
+         "Transportation Scheduling Software",
+         "Paratransit Dispatch System",
+         "Mobility Service Management",
+         "Vehicle Tracking Application",
+         "Human Service Transportation Platform"
+      ],
+      "topics": [
+         "Transportation Scheduling Software",
+         "Computer-Aided Dispatch",
+         "Public Transit Management",
+         "Web Application Development",
+         "Geospatial Technology"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/com-pas/compas-open-scd": {
+      "use_cases": [
+         "Electrical substation communication design",
+         "SCL file editing and management",
+         "IEC 61850-6 standard compliance tool",
+         "Power grid communication configuration",
+         "Energy infrastructure communication planning"
+      ],
+      "topics": [
+         "substation engineering",
+         "communication design",
+         "electrical grid software",
+         "IEC 61850",
+         "web application"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/awesome-earthobservation-code": {
+      "use_cases": [
+         "Earth Observation Data Processing",
+         "Satellite Imagery Analysis",
+         "Climate and Environmental Monitoring",
+         "Geospatial Machine Learning",
+         "Remote Sensing Research and Education"
+      ],
+      "topics": [
+         "Earth Observation",
+         "Remote Sensing",
+         "Geospatial Analysis",
+         "Satellite Imagery Processing",
+         "Machine Learning in Geospatial Data"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/awesome-ee-spectral-indices": {
+      "use_cases": [
+         "Remote Sensing Image Analysis",
+         "Vegetation Health Monitoring",
+         "Water Resource Management",
+         "Land Use and Land Cover Classification",
+         "Environmental Change Detection"
+      ],
+      "topics": [
+         "Earth Engine",
+         "Spectral Indices",
+         "Remote Sensing",
+         "Satellite Image Processing",
+         "Geospatial Analysis"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/beautiful-jekyll": {
+      "use_cases": [
+         "Personal website template and hosting",
+         "Blog creation and management platform",
+         "Portfolio site generator",
+         "Simple project website builder",
+         "Academic/professional online presence creator"
+      ],
+      "topics": [
+         "Web Development",
+         "Static Site Generation",
+         "GitHub Pages",
+         "Jekyll Themes",
+         "Personal Website Templates"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/cubo": {
+      "use_cases": [
+         "Earth Observation Imagery Extraction",
+         "Satellite Data Processing",
+         "STAC Data Retrieval",
+         "Machine Learning Image Preprocessing",
+         "Geospatial Data Cube Generation"
+      ],
+      "topics": [
+         "Earth Observation",
+         "GIS",
+         "Remote Sensing",
+         "Machine Learning",
+         "Satellite Data"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/d2l-en": {
+      "use_cases": [
+         "Deep Learning Education and Training",
+         "Machine Learning Research and Implementation",
+         "Interactive Programming Learning",
+         "Computer Vision and NLP Study",
+         "AI Technical Reference and Instruction"
+      ],
+      "topics": [
+         "Machine Learning",
+         "Deep Learning",
+         "Educational Resources",
+         "Computer Science",
+         "Artificial Intelligence"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/dataresqc": {
+      "use_cases": [
+         "Climate Data Quality Control",
+         "Historical Meteorological Data Validation",
+         "Climate Record Preservation",
+         "Data Rescue Service Tools",
+         "Meteorological Data Standardization"
+      ],
+      "topics": [
+         "Data Rescue",
+         "Quality Control",
+         "Climate Data",
+         "Data Processing",
+         "Metadata Management"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/dbparser": {
+      "use_cases": [
+         "Drug Database Parsing",
+         "Pharmaceutical Research Analysis",
+         "Drug Interaction Exploration",
+         "Medical Research Data Processing",
+         "Biotech and Small Molecule Drug Classification"
+      ],
+      "topics": [
+         "R Programming",
+         "Data Analysis",
+         "Bioinformatics",
+         "XML Parsing",
+         "Drug Database"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/desire2download": {
+      "use_cases": [
+         "Learning Management System Download Tool",
+         "University Course File Retrieval",
+         "Desire2Learn Content Backup",
+         "Academic Resource Synchronization",
+         "Online Course Material Downloader"
+      ],
+      "topics": [
+         "education",
+         "web-scraping",
+         "file-download",
+         "learning-management-system",
+         "python-tool"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/diffusers": {
+      "use_cases": [
+         "Image Generation",
+         "Audio Generation",
+         "Molecular Structure Design",
+         "Text-to-Image Synthesis",
+         "Image Editing"
+      ],
+      "topics": [
+         "Machine Learning",
+         "Generative AI",
+         "Computer Vision",
+         "Image Generation",
+         "Deep Learning"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/csaybar/earthengine-py-notebooks": {
+      "use_cases": [
+         "Geographic Data Visualization",
+         "Earth Observation Analysis",
+         "Remote Sensing",
+         "Machine Learning with Geospatial Data",
+         "Interactive Mapping and Satellite Imagery Processing"
+      ],
+      "topics": [
+         "geospatial analytics",
+         "earth observation",
+         "remote sensing",
+         "google earth engine",
+         "python data science"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/earth_rover_darknet": {
+      "use_cases": [
+         "Autonomous Vehicle Object Detection",
+         "Video Surveillance and Security",
+         "Face and Person Detection",
+         "Industrial Object Detection",
+         "Robotics and Navigation"
+      ],
+      "topics": [
+         "object detection",
+         "computer vision",
+         "neural networks",
+         "machine learning",
+         "deep learning"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/earth_rover_piksi": {
+      "use_cases": [
+         "Precision Agriculture Rover Navigation",
+         "Autonomous Robotic Field Mapping",
+         "High-Accuracy GPS Tracking for Robotics",
+         "Scientific Environmental Surveying",
+         "Autonomous Vehicle Positioning System"
+      ],
+      "topics": [
+         "GPS",
+         "ROS",
+         "Robotics",
+         "Navigation",
+         "Real-Time Kinematic"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/librealsense": {
+      "use_cases": [
+         "3D Depth Sensing Camera Applications",
+         "Computer Vision and Object Detection",
+         "Robotics and Autonomous Navigation",
+         "Augmented Reality and Spatial Mapping",
+         "Industrial Inspection and Measurement"
+      ],
+      "topics": [
+         "Computer Vision",
+         "Depth Sensing",
+         "Camera SDK",
+         "3D Imaging",
+         "Robotics Hardware"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/realsense_buildTX2Librealsense": {
+      "use_cases": [
+         "Intel RealSense Camera Setup",
+         "Jetson TX Series Development",
+         "Embedded Computer Vision",
+         "Robotics Sensor Integration",
+         "Depth Camera Programming"
+      ],
+      "topics": [
+         "Computer Vision",
+         "Embedded Systems",
+         "Intel RealSense",
+         "NVIDIA Jetson",
+         "Camera SDK"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/ros_jetson_stats": {
+      "use_cases": [
+         "Jetson Embedded Systems Monitoring",
+         "NVIDIA Jetson Performance Tracking",
+         "Robotic Systems Hardware Status Reporting",
+         "ROS-based Embedded Device Diagnostics",
+         "Robotic Computing Platform Resource Management"
+      ],
+      "topics": [
+         "ROS",
+         "Robotics",
+         "NVIDIA Jetson",
+         "System Monitoring",
+         "Embedded Systems"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/earthrover/zed-ros-wrapper": {
+      "use_cases": [
+         "Robotic Vision and Perception",
+         "3D Mapping and Navigation",
+         "Depth Sensing in Robotics",
+         "Computer Vision Research",
+         "Autonomous Robotics Sensing"
+      ],
+      "topics": [
+         "Computer Vision",
+         "Robotics Operating System (ROS)",
+         "3D Perception",
+         "Stereo Camera",
+         "Sensor Integration"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b": {
+      "use_cases": [
+         "Climate Modeling",
+         "Sea Ice Prediction",
+         "Environmental Data Analysis",
+         "Machine Learning for Climate Science",
+         "Geospatial Forecasting"
+      ],
+      "topics": [
+         "Sea Ice Forecasting",
+         "Climate Science",
+         "Machine Learning",
+         "Environmental Data Science",
+         "Jupyter Notebooks"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/fledge-power/fledge-north-iec104": {
+      "use_cases": [
+         "Industrial Control Systems Monitoring",
+         "SCADA Communication Interface",
+         "IEC 104 Server Simulation",
+         "Utility Network Data Collection",
+         "Industrial Automation Networking"
+      ],
+      "topics": [
+         "Industrial Control Systems",
+         "IoT Protocols",
+         "Network Communication",
+         "Middleware",
+         "Open Source Software"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/fledge-power/fledge-south-iec104": {
+      "use_cases": [
+         "Industrial Automation Data Collection",
+         "IEC 104 Protocol Communication",
+         "SCADA System Integration",
+         "Remote Telemetry Monitoring",
+         "Industrial IoT Data Acquisition"
+      ],
+      "topics": [
+         "Internet of Things",
+         "Industrial Communication Protocols",
+         "Data Acquisition",
+         "Network Programming",
+         "Software Integration"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/batyr": {
+      "use_cases": [
+         "Automated Geospatial Data Synchronization",
+         "PostGIS Database Integration for Vector Geodata",
+         "Geospatial Data Import and Transformation Server",
+         "Web-Enabled Geodata Synchronization Service",
+         "Geographic Information System (GIS) Data Management"
+      ],
+      "topics": [
+         "Geospatial Data Management",
+         "PostgreSQL/PostGIS Integration",
+         "Data Synchronization",
+         "Web API",
+         "Vector Data Processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/create-react-web-component": {
+      "use_cases": [
+         "Web Component Creation",
+         "React Component Conversion to Web Component",
+         "Cross-Framework UI Component Development",
+         "Dynamic Web Component Rendering",
+         "Browser-Agnostic Component Embedding"
+      ],
+      "topics": [
+         "Web Components",
+         "React",
+         "JavaScript",
+         "Frontend Development",
+         "Component Library"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/geoserver-manager": {
+      "use_cases": [
+         "GIS Server Management",
+         "Geospatial Data Administration",
+         "REST API Client for GeoServer",
+         "Spatial Data Infrastructure Tools",
+         "Web Mapping Platform Integration"
+      ],
+      "topics": [
+         "Geospatial",
+         "Java Libraries",
+         "REST API",
+         "Web Services",
+         "Geographic Information Systems"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/geotoolkit": {
+      "use_cases": [
+         "Geospatial Data Processing",
+         "PostGIS Database Interaction",
+         "GeoJSON Manipulation",
+         "Clojure Geographic Toolkit",
+         "Spatial Data Exploration"
+      ],
+      "topics": [
+         "Geospatial",
+         "PostGIS",
+         "Clojure",
+         "GeoJSON",
+         "Data Processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/maplibre-gl-js": {
+      "use_cases": [
+         "Interactive web mapping",
+         "Geospatial data visualization",
+         "Location-based web applications",
+         "Mobile and desktop map rendering",
+         "Open-source cartography tools"
+      ],
+      "topics": [
+         "Geospatial Mapping",
+         "Open Source Software",
+         "Web Mapping",
+         "JavaScript Libraries",
+         "Community-Driven Development"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/osm2vectortiles": {
+      "use_cases": [
+         "Creating custom base maps from OpenStreetMap data",
+         "Generating vector tiles for web mapping applications",
+         "Offline map rendering and serving behind firewalls",
+         "Designing custom map styles and visualizations",
+         "Converting OpenStreetMap geospatial data into vector tile formats"
+      ],
+      "topics": [
+         "Geospatial Data Conversion",
+         "OpenStreetMap",
+         "Vector Tile Generation",
+         "Map Styling",
+         "Cartography Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/geops/php5-gdal": {
+      "use_cases": {
+         "possible_uses": []
+      },
+      "topics": [],
+      "date": "2025-01-16"
+   },
+   "https://github.com/global-healthy-liveable-cities/global-indicators": {
+      "use_cases": [
+         "Urban City Planning and Design Analysis Tool",
+         "Policy and Spatial Indicator Generation for Cities",
+         "Healthy and Sustainable Urban Development Measurement",
+         "City Benchmarking and Performance Comparison Software",
+         "Spatial Accessibility and Urban Livability Evaluation"
+      ],
+      "topics": [
+         "Urban Indicators",
+         "City Planning",
+         "Spatial Analysis",
+         "Sustainable Development",
+         "Open Source Software"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/gripenergy/glm-plotter": {
+      "use_cases": [
+         "Power System Network Visualization",
+         "GridLab-D Model File Parsing",
+         "Interactive Network Layout",
+         "Network Node Position Export",
+         "Energy Network Topology Analysis"
+      ],
+      "topics": [
+         "power systems",
+         "network visualization",
+         "gridlab-d",
+         "flask",
+         "d3.js"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/iClimate/ghgpy": {
+      "use_cases": [
+         "Greenhouse Gas Emissions Accounting",
+         "Industrial Carbon Footprint Calculation",
+         "Textile Manufacturing Emissions Tracking",
+         "Energy Consumption and Emissions Monitoring",
+         "Refrigerant and Electricity Usage Emissions Analysis"
+      ],
+      "topics": [
+         "carbon_accounting",
+         "climate_tech",
+         "greenhouse_gas_emissions",
+         "environmental_data_processing",
+         "sustainability_analytics"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jdbcode/EarthEngine.jl": {
+      "use_cases": [
+         "Geospatial Data Processing",
+         "Remote Sensing Analysis",
+         "Satellite Image Visualization",
+         "Elevation and Terrain Mapping",
+         "Environmental and Earth Science Research"
+      ],
+      "topics": [
+         "Geospatial Analysis",
+         "Remote Sensing",
+         "Earth Science",
+         "Cloud Computing",
+         "Satellite Imagery"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jdbcode/earthengine-community": {
+      "use_cases": [
+         "Geospatial Data Analysis",
+         "Remote Sensing Image Processing",
+         "Climate and Environmental Research",
+         "Satellite Imagery Visualization",
+         "Geographic Information System (GIS) Development"
+      ],
+      "topics": [
+         "Earth Science",
+         "Geospatial Technology",
+         "Remote Sensing",
+         "Climate Data",
+         "Community Development"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jdbcode/ee-runner": {
+      "use_cases": [
+         "Geospatial Data Analysis",
+         "Remote Sensing Image Processing",
+         "Google Earth Engine Scripting",
+         "Satellite Image Visualization",
+         "Command Line Geospatial Tool"
+      ],
+      "topics": [
+         "Google Earth Engine",
+         "Remote Sensing",
+         "Geospatial Analysis",
+         "Node.js",
+         "Command Line Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jdbcode/gee_s1_ard": {
+      "use_cases": [
+         "Land cover monitoring",
+         "Inland water monitoring",
+         "Synthetic aperture radar (SAR) image processing",
+         "Terrain normalization",
+         "Remote sensing data analysis"
+      ],
+      "topics": [
+         "Remote Sensing",
+         "Synthetic Aperture Radar",
+         "Satellite Imagery Processing",
+         "Google Earth Engine",
+         "Geographic Data Analysis"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jdbcode/geemap": {
+      "use_cases": [
+         "Geospatial Data Visualization",
+         "Remote Sensing Analysis",
+         "Earth Engine Data Processing",
+         "Interactive Satellite Imagery Mapping",
+         "Environmental Research and Monitoring"
+      ],
+      "topics": [
+         "Geographic Information Systems",
+         "Earth Observation",
+         "Remote Sensing",
+         "Data Visualization",
+         "Geospatial Analysis"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jhawthorn/VoxelSpace": {
+      "use_cases": [
+         "3D City Visualization",
+         "Urban Mapping",
+         "LiDAR Data Exploration",
+         "Terrain Mapping",
+         "Interactive Geographic Visualization"
+      ],
+      "topics": [
+         "LiDAR",
+         "3D Visualization",
+         "Urban Mapping",
+         "Geospatial Data",
+         "Interactive Mapping"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jooolia/DiagrammeR": {
+      "use_cases": [
+         "Data Visualization and Graphing",
+         "Graph Diagram Creation",
+         "Network Analysis",
+         "Flight Path Mapping",
+         "Interactive R Markdown Diagrams"
+      ],
+      "topics": [
+         "Data Visualization",
+         "Graph Theory",
+         "Network Analysis",
+         "R Programming",
+         "Data Visualization Packages"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jooolia/jooolia.github.io": {
+      "use_cases": [
+         "Personal Blog Website",
+         "Project Portfolio Website",
+         "Open Source Project Documentation Site",
+         "Personal Portfolio Website",
+         "Technical Blog Platform"
+      ],
+      "topics": [
+         "web development",
+         "website template",
+         "github pages",
+         "static site generator",
+         "personal blogging"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jooolia/modern-scientific-authoring": {
+      "use_cases": [
+         "Academic Writing Tools",
+         "Scientific Documentation Generation",
+         "Research Paper Formatting",
+         "Collaborative Academic Publishing",
+         "Scientific Writing Workflow Management"
+      ],
+      "topics": [
+         "Scientific Writing",
+         "Academic Publishing",
+         "Research Methodology",
+         "Technical Documentation",
+         "Digital Authorship"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jooolia/mregions2": {
+      "use_cases": [
+         "Marine Geographic Information Retrieval",
+         "Marine Spatial Data Analysis",
+         "Marine Region Boundary Mapping",
+         "Marine Gazetteer Research",
+         "Ocean Geographical Metadata Management"
+      ],
+      "topics": [
+         "Marine Science",
+         "Geographic Information Systems",
+         "Data Access",
+         "Geospatial Analysis",
+         "Marine Biodiversity"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/jtwhite79/pyemu": {
+      "use_cases": [
+         "Uncertainty Analysis for Computational Models",
+         "Geostatistical Interpolation",
+         "Parameter Estimation and Sensitivity Analysis",
+         "PEST and PEST++ Model Interfacing",
+         "High-Dimensional Monte Carlo Simulation"
+      ],
+      "topics": [
+         "Groundwater Modeling",
+         "Uncertainty Analysis",
+         "Parameter Estimation",
+         "Geostatistics",
+         "Bayesian Inference"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/k-rns/intro-to-apis-taxamatch": {
+      "use_cases": [
+         "Scientific Taxonomy Name Matching",
+         "API Interaction Tutorial",
+         "Python Data Analysis Education",
+         "Biodiversity Informatics Learning",
+         "Research Data Integration"
+      ],
+      "topics": [
+         "python",
+         "apis",
+         "taxonomy",
+         "data science education",
+         "scientific computing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/k-rns/leaflet-map-simple": {
+      "use_cases": [
+         "Geographic Visualization",
+         "Web Mapping",
+         "Interactive Map Creation",
+         "Educational Mapping Template",
+         "Geospatial Data Display"
+      ],
+      "topics": [
+         "web mapping",
+         "geospatial visualization",
+         "HTML/JavaScript",
+         "tutorial",
+         "open-source mapping"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/k-rns/spreadsheet-humanities-lesson": {
+      "use_cases": [
+         "Data Science Training",
+         "Scientific Computing Workshop",
+         "Research Methods Course",
+         "Data Analysis Instruction",
+         "Software Carpentry Educational Materials"
+      ],
+      "topics": [
+         "data science education",
+         "data carpentry",
+         "workshop curriculum",
+         "teaching materials",
+         "data skills training"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/CapMetrics": {
+      "use_cases": [
+         "Public Transportation Tracking",
+         "Vehicle Location Data Analysis",
+         "Transit Route Performance Monitoring",
+         "Urban Mobility Data Research",
+         "Real-time Transit Vehicle Tracking"
+      ],
+      "topics": [
+         "Public Transit",
+         "Transportation",
+         "Vehicle Tracking",
+         "Open Data",
+         "Geographic Data"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/Chip8": {
+      "use_cases": [
+         "Classic Video Game Emulation",
+         "Retro Computing Simulation",
+         "Vintage Gaming Platform Emulation",
+         "Chip-8 Virtual Machine",
+         "Retro Game Console Interpreter"
+      ],
+      "topics": [
+         "emulator",
+         "retro computing",
+         "video game",
+         "C programming",
+         "SDL2"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/all-contributors": {
+      "use_cases": [
+         "Documentation Management",
+         "Community Contribution Tracking",
+         "Open Source Project Recognition",
+         "Contributor Acknowledgement System",
+         "Collaborative Development Specification"
+      ],
+      "topics": [
+         "open source collaboration",
+         "contribution recognition",
+         "community management",
+         "project documentation",
+         "contributor guidelines"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/atom-wakatime": {
+      "use_cases": [
+         "Time tracking for software development",
+         "Developer productivity monitoring",
+         "Coding activity logging",
+         "Project time management",
+         "Programming metrics collection"
+      ],
+      "topics": [
+         "Productivity Tracking",
+         "IDE Plugin",
+         "Time Logging",
+         "Developer Tools",
+         "Code Editor Integration"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/babel": {
+      "use_cases": [
+         "JavaScript Transpilation",
+         "Code Compilation",
+         "Modern JavaScript Development",
+         "ECMAScript Feature Support",
+         "Web Development Tooling"
+      ],
+      "topics": [
+         "Web Development",
+         "JavaScript Transpiling",
+         "Compiler Technology",
+         "Open Source Development",
+         "Programming Language Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/baobab": {
+      "use_cases": [
+         "State Management Library",
+         "Immutable Data Tree",
+         "React State Management",
+         "JavaScript Data Structure",
+         "Event-driven Application Architecture"
+      ],
+      "topics": [
+         "javascript",
+         "state management",
+         "data structures",
+         "reactive programming",
+         "web development"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/caddy": {
+      "use_cases": [
+         "Web Server Hosting",
+         "HTTPS Configuration Management",
+         "Automatic SSL Certificate Provisioning",
+         "Reverse Proxy and Virtual Hosting",
+         "Static and Dynamic Website Deployment"
+      ],
+      "topics": [
+         "web server",
+         "networking",
+         "http server",
+         "tls",
+         "devops"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/luqmaan/cashay": {
+      "use_cases": [
+         "GraphQL Client Library",
+         "Redux State Management",
+         "Frontend Data Synchronization",
+         "Subscription Management",
+         "Client-Side GraphQL Schema Handling"
+      ],
+      "topics": [
+         "GraphQL",
+         "Redux",
+         "React",
+         "Web Development",
+         "State Management"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/Choices": {
+      "use_cases": [
+         "Form Input Enhancement",
+         "Dynamic Select Box",
+         "Enhanced Form Controls",
+         "Web Form User Experience",
+         "Interactive Input Plugin"
+      ],
+      "topics": [
+         "JavaScript UI Library",
+         "Form Input Enhancement",
+         "Select Box Plugin",
+         "Web Development Utility",
+         "Frontend Component"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/OpenTripPlanner": {
+      "use_cases": [
+         "Public Transit Trip Planning",
+         "Multi-Modal Transportation Routing",
+         "Urban Mobility Analysis",
+         "Accessibility Research",
+         "Open-Source Transportation Mapping"
+      ],
+      "topics": [
+         "public transportation",
+         "trip planning",
+         "open source software",
+         "geospatial mapping",
+         "transit data"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/autocomplete.js": {
+      "use_cases": [
+         "Web Search Input Autocomplete",
+         "E-commerce Product Search Suggestions",
+         "Site-wide Navigation and Search Assistance",
+         "Real-time Query Recommendation System",
+         "Interactive Search Experience Enhancement"
+      ],
+      "topics": [
+         "Web Development",
+         "JavaScript Libraries",
+         "Search UI",
+         "Frontend Autocomplete",
+         "User Interface Components"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/bamboo": {
+      "use_cases": [
+         "Email sending library for Elixir applications",
+         "Flexible email delivery with multiple service adapters",
+         "Email composing and formatting with Phoenix integration",
+         "Background email delivery for web applications",
+         "Robust email testing framework for Elixir projects"
+      ],
+      "topics": [
+         "email",
+         "elixir",
+         "smtp",
+         "phoenix",
+         "library"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/eflame": {
+      "use_cases": [
+         "Performance Profiling for Erlang Applications",
+         "Stack Trace Visualization for Code Performance Analysis",
+         "Flame Graph Generation for Software Tracing",
+         "Detailed Code Execution Sampling and Measurement",
+         "Debugging and Performance Optimization in Erlang"
+      ],
+      "topics": [
+         "erlang",
+         "profiling",
+         "performance",
+         "development tools",
+         "tracing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/ehmon": {
+      "use_cases": [
+         "Heroku VM Performance Monitoring",
+         "Erlang System Resource Tracking",
+         "Cloud Infrastructure Metrics Reporting",
+         "System Resource Usage Monitoring",
+         "Erlang Node Statistics Collection"
+      ],
+      "topics": [
+         "monitoring",
+         "system statistics",
+         "erlang",
+         "heroku",
+         "performance"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/github-actions-report-lcov": {
+      "use_cases": [
+         "Code Coverage Reporting",
+         "GitHub Actions Workflow",
+         "LCOV Report Generation",
+         "Pull Request Code Quality Integration",
+         "Software Testing Automation"
+      ],
+      "topics": [
+         "GitHub Actions",
+         "Code Coverage",
+         "LCOV",
+         "Continuous Integration",
+         "Testing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/ja_serializer": {
+      "use_cases": [
+         "API Serialization",
+         "JSON API Formatting",
+         "Phoenix Web Framework Serialization",
+         "Elixir Data Structure Serialization",
+         "Rest API Resource Formatting"
+      ],
+      "topics": [
+         "elixir serialization",
+         "json api formatting",
+         "phoenix web development",
+         "data transformation",
+         "api libraries"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/onebusaway-gtfs-modules": {
+      "use_cases": [
+         "Public Transportation Data Management",
+         "GTFS Feed Processing",
+         "Transit Schedule Analysis",
+         "Public Transit Information Systems",
+         "Transit Route Database Tools"
+      ],
+      "topics": [
+         "Public Transit",
+         "GTFS",
+         "Java Libraries",
+         "Transportation Data",
+         "Open Source Software"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/phoenix_swagger": {
+      "use_cases": [
+         "API Documentation Generation for Phoenix Web Framework",
+         "Swagger UI Integration for Web Services",
+         "API Request Parameter Validation",
+         "API Response Schema Validation in Testing",
+         "OpenAPI Specification Tooling for Elixir Web Applications"
+      ],
+      "topics": [
+         "Web API Documentation",
+         "Phoenix Web Framework",
+         "Swagger Integration",
+         "API Request Validation",
+         "Elixir Web Development"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/react-phoenix": {
+      "use_cases": [
+         "React Component Integration with Phoenix Web Framework",
+         "Dynamic React Component Rendering in Elixir Web Applications",
+         "Frontend JavaScript Component Management in Phoenix",
+         "Single Page Application (SPA) Development with React and Phoenix",
+         "Web Interface Rendering Using React Components in Elixir"
+      ],
+      "topics": [
+         "Web Development",
+         "Frontend Frameworks",
+         "JavaScript Integration",
+         "Phoenix Framework",
+         "React"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/sentry-elixir": {
+      "use_cases": [
+         "Error Tracking and Monitoring for Elixir Applications",
+         "Exception Capturing and Reporting for Web Services",
+         "Automatic Logging and Diagnostics in Plug/Phoenix Frameworks",
+         "Performance Insights and Error Tracing for Distributed Systems",
+         "Centralized Error Management and Alerting for Elixir Projects"
+      ],
+      "topics": [
+         "error tracking",
+         "exception handling",
+         "elixir logging",
+         "web application monitoring",
+         "software development tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/setup-chromedriver": {
+      "use_cases": [
+         "Web Browser Automation Testing",
+         "Selenium WebDriver Setup",
+         "Cross-Platform Browser Testing",
+         "Continuous Integration Browser Configuration",
+         "GitHub Actions Browser Testing"
+      ],
+      "topics": [
+         "Web Automation",
+         "GitHub Actions",
+         "Browser Testing",
+         "Selenium",
+         "DevOps"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/solverl": {
+      "use_cases": [
+         "Constraint Solving",
+         "Optimization Modeling",
+         "Puzzle Solving",
+         "Search Algorithm Implementation",
+         "Combinatorial Optimization"
+      ],
+      "topics": [
+         "constraint programming",
+         "optimization",
+         "constraint satisfaction",
+         "solving algorithms",
+         "mathematical modeling"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mbta/ueberauth_oidc": {
+      "use_cases": [
+         "Authentication and Authorization for Web Applications",
+         "Single Sign-On (SSO) Identity Management",
+         "OpenID Connect Protocol Implementation",
+         "User Credentials and Access Control",
+         "OAuth 2.0 Based Login Mechanism"
+      ],
+      "topics": [
+         "Authentication",
+         "OpenID Connect",
+         "Identity Provider",
+         "OAuth",
+         "Web Security"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/OpenTripPlanner": {
+      "use_cases": [
+         "Multi-modal Trip Planning for Urban Transit",
+         "Open Source Transit Route Navigation",
+         "Public Transportation Accessibility Analysis",
+         "City Transportation Network Visualization",
+         "Regional Travel Time Contour Mapping"
+      ],
+      "topics": [
+         "Trip Planning",
+         "Public Transit",
+         "Open Source Software",
+         "Mapping",
+         "Transportation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/ParkAPI": {
+      "use_cases": [
+         "Public Parking Space Information Aggregation",
+         "City Parking Lot Data API Service",
+         "Mobile App Backend for Parking Space Availability",
+         "Urban Parking Data Scraping and Consolidation",
+         "Real-time Parking Lot Occupancy Tracking"
+      ],
+      "topics": [
+         "parking data api",
+         "city parking information",
+         "web scraping",
+         "geolocation services",
+         "open source data aggregation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/abstreet": {
+      "use_cases": [
+         "Urban traffic simulation game",
+         "City infrastructure planning tool",
+         "Transportation policy visualization",
+         "Interactive urban design exploration",
+         "Civic engagement through urban modeling"
+      ],
+      "topics": [
+         "Urban Planning",
+         "Traffic Simulation",
+         "City Modeling",
+         "Open Source Gaming",
+         "Transportation Design"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/caresteouvert": {
+      "use_cases": [
+         "COVID-19 Lockdown Resource Mapping",
+         "Collaborative Location Tracking",
+         "Public Service Availability Mapping",
+         "Emergency Information Platform",
+         "Open Business and Service Locator"
+      ],
+      "topics": [
+         "collaborative mapping",
+         "covid-19 tracking",
+         "open source geospatial",
+         "web development",
+         "translation management"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/chouette": {
+      "use_cases": [
+         "Public Transport Data Management",
+         "Transit Feed Data Conversion",
+         "Geographic Transit Data Validation",
+         "Public Transport Data Import/Export",
+         "Transit Format Interoperability"
+      ],
+      "topics": [
+         "public transport data",
+         "transit data conversion",
+         "java web services",
+         "geospatial data exchange",
+         "transit data validation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/dagster": {
+      "use_cases": [
+         "Data Pipeline Orchestration",
+         "ETL (Extract, Transform, Load) Workflows",
+         "Machine Learning Workflow Management",
+         "Business Intelligence Data Processing",
+         "Software Engineering Workflow Automation"
+      ],
+      "topics": [
+         "Data Engineering",
+         "Workflow Orchestration",
+         "ETL Pipelines",
+         "Data Scheduling",
+         "Distributed Computing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/dataset": {
+      "use_cases": [
+         "Dataset Documentation Generation",
+         "Readme File Management",
+         "Dataset Visualization Configuration",
+         "JSON Serialization of Readme Metadata",
+         "File Path Resolution for Readme Scripts"
+      ],
+      "topics": [
+         "golang",
+         "datastore",
+         "json serialization",
+         "file handling",
+         "metadata management"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/datatools-server": {
+      "use_cases": [
+         "Transit Data Management System",
+         "Public Transportation Data Analytics Platform",
+         "Transit Agency Information Management Tool",
+         "Urban Transportation Tracking and Analysis Software",
+         "Public Transit Data Integration and Processing Application"
+      ],
+      "topics": [
+         "transit",
+         "transportation",
+         "data management",
+         "docker",
+         "open source"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/db-api-to-gtfs": {
+      "use_cases": [
+         "Public Transportation Timetable Conversion",
+         "GTFS Feed Generation for Train Schedules",
+         "Deutsche Bahn Transit Data Extraction",
+         "Railway Network Route Mapping",
+         "Transportation API Data Transformation"
+      ],
+      "topics": [
+         "Transportation",
+         "Public Transit",
+         "GTFS Data Conversion",
+         "Railway Scheduling",
+         "API Integration"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/db-clean-station-name": {
+      "use_cases": [
+         "Station Name Cleaning",
+         "Public Transportation Data Normalization",
+         "Text Cleaning Utility",
+         "Location Name Extraction",
+         "Railway Station Name Formatting"
+      ],
+      "topics": [
+         "transportation",
+         "data cleaning",
+         "location processing",
+         "railway",
+         "geospatial analysis"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/desktop": {
+      "use_cases": [
+         "Dataset Management Application",
+         "Scientific Data Research Tool",
+         "Data Visualization Desktop App",
+         "Open Source Data Repository Client",
+         "Research Data Analysis Platform"
+      ],
+      "topics": [
+         "data management",
+         "electron desktop application",
+         "react web development",
+         "open source software",
+         "dataset tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/frictionless-py": {
+      "use_cases": [
+         "Data Quality Assurance for Tabular Datasets",
+         "Data Validation and Error Detection",
+         "ETL (Extract, Transform, Load) Workflows",
+         "Data Metadata Management and Description",
+         "Multi-Format Data Extraction and Processing"
+      ],
+      "topics": [
+         "Data Processing",
+         "Data Validation",
+         "Data Integration",
+         "Python Framework",
+         "Data Transformation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/geopy": {
+      "use_cases": [
+         "Location Geocoding",
+         "Address Reverse Lookup",
+         "Distance Calculation Between Coordinates",
+         "Geographic Mapping",
+         "Geospatial Data Analysis"
+      ],
+      "topics": [
+         "Geocoding",
+         "Geospatial Analysis",
+         "Distance Calculation",
+         "Python Libraries",
+         "Mapping Services"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/gtfs-filter": {
+      "use_cases": [
+         "Public Transit Data Filtering",
+         "GTFS Feed Processing",
+         "Transportation Route Analysis",
+         "Geographic Transportation Data Extraction",
+         "Transit Schedule Trimming"
+      ],
+      "topics": [
+         "transit data filtering",
+         "geospatial filtering",
+         "transportation system analysis",
+         "open source utilities",
+         "GTFS data processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/gtfs-realtime-translators": {
+      "use_cases": [
+         "Public Transit Real-Time Tracking",
+         "Transportation Data Translation",
+         "Transit Agency Information Systems",
+         "Vehicle Position Monitoring",
+         "Urban Mobility Analytics"
+      ],
+      "topics": [
+         "Transportation",
+         "Public Transit",
+         "Data Translation",
+         "Real-time Data",
+         "GTFS"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/gtfs-realtime-validator": {
+      "use_cases": [
+         "Transit Feed Validation Tool",
+         "Public Transportation Real-Time Data Validation",
+         "GTFS-Realtime Feed Analyzer",
+         "Transit Information Verification Application",
+         "Web-Based Transit Data Quality Checker"
+      ],
+      "topics": [
+         "transit data validation",
+         "gtfs",
+         "transportation api",
+         "open source software",
+         "web application"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/gtfs-sql-importer": {
+      "use_cases": [
+         "Transit Data Management",
+         "GTFS Database Import",
+         "Public Transportation Data Processing",
+         "PostgreSQL Transit Data Loader",
+         "Geographic Transit Feed Ingestion"
+      ],
+      "topics": [
+         "transit data",
+         "gtfs",
+         "postgresql",
+         "etl",
+         "geospatial"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/gtfsvtor": {
+      "use_cases": [
+         "GTFS Validation Tool",
+         "Public Transit Data Quality Assurance",
+         "Transportation Scheduling Verification",
+         "Public Transportation Route Checking",
+         "Transit Feed Compliance Verification"
+      ],
+      "topics": [
+         "Transit Data",
+         "GTFS Validation",
+         "Public Transportation",
+         "Software Development Tools",
+         "Open Source Transportation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/hafas-gtfs-rt-feed": {
+      "use_cases": [
+         "Public Transportation Real-Time Tracking",
+         "GTFS Realtime Feed Generation",
+         "Transit Data Monitoring and Matching",
+         "Transportation API Integration",
+         "Vehicle Location and Trip Update Streaming"
+      ],
+      "topics": [
+         "public transportation",
+         "real-time transit data",
+         "gtfs",
+         "data transformation",
+         "transit tracking"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/hamburg-gtfs-rt-server": {
+      "use_cases": [
+         "Transit Real-Time Tracking",
+         "Public Transportation Monitoring",
+         "Vehicle Location Tracking",
+         "Transit Data API",
+         "Urban Transit Information System"
+      ],
+      "topics": [
+         "public transportation",
+         "transit tracking",
+         "real-time data",
+         "open data",
+         "transportation APIs"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/kepler.gl": {
+      "use_cases": [
+         "Geospatial Data Visualization",
+         "Large-Scale Location Data Analysis",
+         "Interactive Web Mapping",
+         "Trip and Movement Data Exploration",
+         "React-Based Mapping Application"
+      ],
+      "topics": [
+         "data visualization",
+         "geospatial analysis",
+         "web mapping",
+         "react",
+         "mapbox"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/lamassu": {
+      "use_cases": [
+         "Mobility Aggregation Service",
+         "Bike and Scooter Sharing System Integration",
+         "GBFS Feed Polling and Consolidation",
+         "Urban Transportation Data Middleware",
+         "Multi-Provider Vehicle Location Tracking"
+      ],
+      "topics": [
+         "Mobility Services",
+         "Bikesharing",
+         "Transportation APIs",
+         "Data Aggregation",
+         "Microservices"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/mitfahren-bw.de": {
+      "use_cases": [
+         "Public Transportation Routing Interface",
+         "Multi-City Transit Navigation Platform",
+         "Mobile-Friendly Transit Information System",
+         "Web-Based Journey Planning Application",
+         "Cross-Platform Transit Route Explorer"
+      ],
+      "topics": [
+         "web development",
+         "public transit",
+         "mobile interface",
+         "transportation",
+         "user experience"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/modeify": {
+      "use_cases": [
+         "Transportation Planning and Commute Optimization",
+         "Multimodal Travel Route Planning",
+         "Commuter Behavior Change Platform",
+         "Transit Technology Engagement Tool",
+         "Mobility Management Software"
+      ],
+      "topics": [
+         "Transportation Planning",
+         "Multimodal Commuting",
+         "Web Application Development",
+         "Mobility Technology",
+         "Open Source Transit Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/onebusaway-gtfs-modules": {
+      "use_cases": [
+         "Public Transportation Routing Software",
+         "Transit Data Management System",
+         "GTFS Feed Processing Library",
+         "Urban Mobility Data Analysis Tool",
+         "Public Transit Information Management Platform"
+      ],
+      "topics": [
+         "Public Transit",
+         "GTFS Data",
+         "Java Libraries",
+         "Transportation Mapping",
+         "Open Source Transportation Software"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/osmnx": {
+      "use_cases": [
+         "Urban Network Analysis",
+         "City Infrastructure Mapping",
+         "Geospatial Data Visualization",
+         "Transportation Route Planning",
+         "Urban Planning and Research"
+      ],
+      "topics": [
+         "Geospatial Analysis",
+         "Urban Network Modeling",
+         "OpenStreetMap Data Processing",
+         "Geographical Information Systems",
+         "Transportation Infrastructure"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/osmtogeojson": {
+      "use_cases": [
+         "Geospatial Data Conversion",
+         "OpenStreetMap to GeoJSON Transformation",
+         "Mapping Data Processing",
+         "Geospatial File Format Conversion",
+         "Polygon Geometry Parsing"
+      ],
+      "topics": [
+         "Geographic Information Systems",
+         "Python Libraries",
+         "OpenStreetMap",
+         "Data Conversion",
+         "Geospatial Processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/overpass-api-python-wrapper": {
+      "use_cases": [
+         "OpenStreetMap Data Retrieval",
+         "Geographic Information System (GIS) Querying",
+         "Map Data Analysis",
+         "Location-based Software Development",
+         "Geospatial Data Visualization"
+      ],
+      "topics": [
+         "OpenStreetMap",
+         "Geospatial Data",
+         "API Wrapper",
+         "Mapping",
+         "Python Geolocation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/photon": {
+      "use_cases": [
+         "Geocoding and Address Search",
+         "Location-based Services",
+         "Geographic Data Processing",
+         "OpenStreetMap Data Indexing",
+         "Multilingual Geographic Search"
+      ],
+      "topics": [
+         "geocoding",
+         "mapping",
+         "location search",
+         "open source software",
+         "elasticsearch"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/pyrosm": {
+      "use_cases": [
+         "Geospatial Data Processing",
+         "OpenStreetMap Data Extraction",
+         "Street Network Analysis",
+         "Urban Planning and GIS",
+         "Transportation Infrastructure Mapping"
+      ],
+      "topics": [
+         "Geographic Data Processing",
+         "Open Street Map Data Parsing",
+         "Geospatial Analysis",
+         "Python GIS Libraries",
+         "Spatial Data Visualization"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/qri": {
+      "use_cases": [
+         "Dataset Version Control",
+         "Distributed Web Data Sharing",
+         "Dataset Discovery and Search",
+         "Collaborative Data Management",
+         "Data Synchronization and Tracking"
+      ],
+      "topics": [
+         "version control",
+         "data management",
+         "distributed systems",
+         "peer-to-peer networking",
+         "data versioning"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/sharedstreets-builder": {
+      "use_cases": [
+         "OpenStreetMap data conversion",
+         "Geospatial tile generation",
+         "Road network data processing",
+         "Map data transformation",
+         "Hierarchical road class filtering"
+      ],
+      "topics": [
+         "geospatial",
+         "data conversion",
+         "open source mapping",
+         "osm processing",
+         "tile generation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/sharedstreets-js": {
+      "use_cases": [
+         "GIS Data Matching for City Infrastructure",
+         "Urban Transportation Network Analysis",
+         "Street Routing and Mapping Applications",
+         "Geospatial Data Transformation and Reference Mapping",
+         "City Planning and Transportation Modeling"
+      ],
+      "topics": [
+         "geospatial data processing",
+         "open source mapping",
+         "street reference system",
+         "geographic information systems",
+         "node.js cli tool"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/sharedstreets-matcher": {
+      "use_cases": [
+         "Traffic Speed Analysis",
+         "Urban Transportation Monitoring",
+         "GPS Trace Mapping",
+         "Vehicle Movement Tracking",
+         "Street Network Performance Measurement"
+      ],
+      "topics": [
+         "Traffic Analysis",
+         "GPS Matching",
+         "Transportation Data",
+         "Geospatial Processing",
+         "Open Source Mapping"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/simple-opening-hours": {
+      "use_cases": [
+         "Parsing business opening hours",
+         "Managing store or restaurant schedules",
+         "Supporting localized business time tracking",
+         "Creating business availability checkers",
+         "Building hours of operation validation systems"
+      ],
+      "topics": [
+         "javascript",
+         "date parsing",
+         "time parsing",
+         "openstreetmap",
+         "scheduling"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/sparqlwrapper": {
+      "use_cases": [
+         "Semantic Web Data Querying",
+         "RDF Graph Database Interaction",
+         "SPARQL Endpoint Interaction",
+         "Linked Data Retrieval",
+         "Ontology Information Extraction"
+      ],
+      "topics": [
+         "python",
+         "semantic web",
+         "rdf",
+         "sparql",
+         "data processing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/stable-public-transport-ids": {
+      "use_cases": [
+         "Public Transport ID Generation",
+         "Transit Data Identification",
+         "Linked Open Transit Data Management",
+         "Stable Identifier Creation for Transportation Infrastructure",
+         "Multi-Source Transit Information Mapping"
+      ],
+      "topics": [
+         "public transportation",
+         "linked data",
+         "transit identification",
+         "data standards",
+         "open source"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/mfdz/vsh-bleibt": {
+      "use_cases": [
+         "Civic Engagement Petition Platform",
+         "Open Letter Management System",
+         "Community Collaboration Tool",
+         "Digital Signature Collection Platform",
+         "Local Government Communication Interface"
+      ],
+      "topics": [
+         "open letter",
+         "community activism",
+         "web accessibility",
+         "citizen engagement",
+         "digital participation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/PyPSA_ptdf": {
+      "use_cases": [
+         "Power Grid Simulation and Optimization",
+         "Renewable Energy System Modeling",
+         "Electricity Network Planning and Analysis",
+         "Energy Infrastructure Investment Optimization",
+         "Multi-Sector Energy Carrier Integration"
+      ],
+      "topics": [
+         "Power Systems Modeling",
+         "Energy Infrastructure Optimization",
+         "Renewable Energy Simulation",
+         "Electrical Network Analysis",
+         "Energy Sector Transformation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/atlite": {
+      "use_cases": [
+         "Renewable Energy Simulation",
+         "Weather Data Processing for Power Systems",
+         "Solar and Wind Energy Modeling",
+         "Climate Data Analysis for Energy Planning",
+         "Energy Time Series Generation"
+      ],
+      "topics": [
+         "Renewable Energy",
+         "Weather Data Processing",
+         "Power Systems Modeling",
+         "Energy Simulation",
+         "Climate Analytics"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/cookiecutter-project": {
+      "use_cases": [
+         "Reproducible Scientific Project Template",
+         "Automated Data Analysis Workflow Tool",
+         "Research Project Cookiecutter Generator",
+         "Academic Research Project Structure Creator",
+         "Standardized Python Research Repository Template"
+      ],
+      "topics": [
+         "project-templates",
+         "reproducible-research",
+         "data-science-workflow",
+         "python-development",
+         "scientific-computing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/linopy": {
+      "use_cases": [
+         "Linear Programming Optimization",
+         "Data Analysis and Optimization Modeling",
+         "Integer and Mixed-Integer Programming",
+         "Resource Allocation and Scheduling",
+         "Constrained Decision Making"
+      ],
+      "topics": [
+         "Linear Programming",
+         "Optimization",
+         "Python Libraries",
+         "Data Analysis",
+         "Mathematical Modeling"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/pypsa-usa": {
+      "use_cases": [
+         "Power Systems Modeling",
+         "Energy System Optimization",
+         "Transmission Grid Analysis",
+         "Capacity Expansion Planning",
+         "Power Flow Simulation"
+      ],
+      "topics": [
+         "Energy Systems",
+         "Power Grid Modeling",
+         "Renewable Energy",
+         "Transmission Systems",
+         "Capacity Expansion"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-energy-transition/technology-data": {
+      "use_cases": [
+         "Energy System Modeling",
+         "Power Systems Analysis",
+         "Renewable Energy Technology Assessment",
+         "Energy Technology Cost Projection",
+         "Energy Sector Scenario Planning"
+      ],
+      "topics": [
+         "Energy System Modeling",
+         "Technology Cost Data",
+         "Energy Transition",
+         "Power System Simulation",
+         "Renewable Energy Technology"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/open-plan-tool/gui": {
+      "use_cases": [
+         "Energy System Planning and Optimization",
+         "Multi-Vector Energy Simulation",
+         "Renewable Energy Analysis",
+         "Smart Grid Modeling",
+         "Energy Infrastructure Planning Tool"
+      ],
+      "topics": [
+         "web application",
+         "energy modeling",
+         "user interface",
+         "simulation tool",
+         "open source project"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/openclimatefix/ngboost": {
+      "use_cases": [
+         "Machine Learning Regression",
+         "Probabilistic Prediction",
+         "Housing Price Forecasting",
+         "Statistical Model Training",
+         "Uncertainty Estimation in Predictive Models"
+      ],
+      "topics": [
+         "Machine Learning",
+         "Gradient Boosting",
+         "Probabilistic Prediction",
+         "Statistical Learning",
+         "Regression Modeling"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/openclimatefix/omymodels": {
+      "use_cases": [
+         "Database Model Generation",
+         "ORM Model Conversion",
+         "SQL DDL to Python Model Parsing",
+         "Multi-ORM Model Support",
+         "CLI-based Database Schema Transformation"
+      ],
+      "topics": [
+         "Python ORM",
+         "Code Generation",
+         "SQL DDL",
+         "Database Modeling",
+         "Model Conversion"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/openclimatefix/perceiver-pytorch": {
+      "use_cases": [
+         "Computer Vision Image Classification",
+         "Machine Learning Deep Learning Model",
+         "Flexible Multi-Modal AI Perception",
+         "Neural Network Architecture Research",
+         "Attention Mechanism Implementation"
+      ],
+      "topics": [
+         "Machine Learning",
+         "Computer Vision",
+         "Deep Learning",
+         "Neural Networks",
+         "Attention Mechanisms"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/openclimatefix/py-staticmaps": {
+      "use_cases": [
+         "Mapping and Visualization",
+         "Geospatial Data Rendering",
+         "Geographic Information Systems (GIS)",
+         "Map Visualization Tools",
+         "Location Tracking and Plotting"
+      ],
+      "topics": [
+         "Mapping",
+         "Geospatial Visualization",
+         "Geographic Utilities",
+         "Python Cartography",
+         "Map Image Generation"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/seapath/corosync-ansible": {
+      "use_cases": [
+         "High-Availability Clustering",
+         "OpenStack Infrastructure Management",
+         "Linux Server Redundancy",
+         "Network Service Configuration",
+         "Distributed Systems Load Balancing"
+      ],
+      "topics": [
+         "Ansible",
+         "Clustering",
+         "High Availability",
+         "OpenStack Infrastructure",
+         "Network Configuration"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/seapath/snmp_passpersist": {
+      "use_cases": [
+         "Network Monitoring and Management",
+         "SNMP Backend Development",
+         "Virtual Machine Monitoring (Xen)",
+         "Custom MIB (Management Information Base) Exposure",
+         "Device Status Tracking"
+      ],
+      "topics": [
+         "networking",
+         "system monitoring",
+         "net-snmp",
+         "python",
+         "network management"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/sinergise/gwt-jackson": {
+      "use_cases": [
+         "JSON serialization and deserialization for GWT applications",
+         "Server-side REST communication with JSON payloads",
+         "Converting Java objects to and from JSON using Jackson annotations",
+         "Creating immutable data transfer objects (DTOs) with Jackson support",
+         "Cross-platform JSON parsing for Google Web Toolkit projects"
+      ],
+      "topics": [
+         "JSON Parsing",
+         "Web Development",
+         "GWT",
+         "Jackson Annotations",
+         "Object Serialization"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/sinergise/terraform-provider-kapacitor": {
+      "use_cases": [
+         "Time Series Monitoring",
+         "Alert Management",
+         "Streaming Data Processing",
+         "Infrastructure Monitoring",
+         "DevOps Automation"
+      ],
+      "topics": [
+         "Monitoring",
+         "Infrastructure as Code",
+         "Time Series Data",
+         "DevOps Automation",
+         "Data Streaming"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/sogno-platform/forecasting-api": {
+      "use_cases": [
+         "Energy Forecasting API",
+         "Smart Grid Data Processing",
+         "Electrical Power Prediction Service",
+         "Energy Management System Integration",
+         "Renewable Energy Analytics Platform"
+      ],
+      "topics": [
+         "API Development",
+         "Python Web Framework",
+         "FastAPI",
+         "Software Architecture",
+         "Microservices"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/click": {
+      "use_cases": [],
+      "topics": [],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/community-sprints": {
+      "use_cases": [
+         "Geospatial Data Standards Development",
+         "Satellite Imagery Search Specification",
+         "Remote Sensing Asset Metadata Collaboration",
+         "Multi-Source Geographic Data Indexing",
+         "Geospatial Technology Sprint Planning"
+      ],
+      "topics": [
+         "Geospatial Standards",
+         "Open Source Collaboration",
+         "Remote Sensing",
+         "Software Development Sprint",
+         "Metadata Specification"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/degrib": {
+      "use_cases": [
+         "Weather Data Decoding and Processing",
+         "National Digital Forecast Database (NDFD) Tools",
+         "GRIB2 File Format Parsing and Conversion",
+         "Meteorological Data Visualization",
+         "Geospatial Weather Forecasting Software"
+      ],
+      "topics": [
+         "Weather Forecasting",
+         "Data Formats",
+         "Meteorological Software",
+         "Geographic Information Systems",
+         "National Weather Service"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/elasticsearch-py": {
+      "use_cases": [
+         "Other"
+      ],
+      "topics": [],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/ets-cat30": {
+      "use_cases": [
+         "Geospatial Catalog Service Testing Framework",
+         "Web Service Conformance Assessment Tool",
+         "OpenSearch Geospatial Query Validator",
+         "OGC Standard Compliance Verification System",
+         "Geospatial Metadata Service Test Suite"
+      ],
+      "topics": [
+         "Catalog Services",
+         "Geospatial Standards",
+         "Web Services",
+         "Open Geospatial Consortium",
+         "Software Testing"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/tomkralidis/ets-csw202": {
+      "use_cases": [
+         "Geospatial Data Catalog Testing",
+         "Web Service Compliance Verification",
+         "Catalog Service Validation Tool",
+         "OGC Standards Conformance Testing",
+         "Geospatial Metadata Service Validation"
+      ],
+      "topics": [
+         "Web Services",
+         "Geospatial",
+         "Testing",
+         "Open Standards",
+         "Software Quality Assurance"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transition-zero/api-spec-converter": {
+      "use_cases": [
+         "API Specification Conversion",
+         "API Documentation Format Transformation",
+         "API Spec Compatibility Tool",
+         "Swagger and OpenAPI Converter",
+         "Multi-Format API Description Translation"
+      ],
+      "topics": [
+         "API Specification",
+         "API Documentation",
+         "Format Conversion",
+         "Web Service Description",
+         "Development Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transition-zero/neptune-nlp-graphgpt": {
+      "use_cases": [
+         "Knowledge Graph Generation",
+         "Entity Relationship Extraction",
+         "Natural Language Understanding",
+         "Interactive Graph Visualization",
+         "Information Summarization"
+      ],
+      "topics": [
+         "Natural Language Processing",
+         "Knowledge Graphs",
+         "Machine Learning",
+         "Data Visualization",
+         "AI Tools"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transition-zero/powerplantmatching": {
+      "use_cases": [
+         "Energy System Modeling",
+         "Power Plant Data Management",
+         "Renewable Energy Analysis",
+         "Energy Infrastructure Planning",
+         "Power Generation Database"
+      ],
+      "topics": [
+         "Energy Database",
+         "Power Systems",
+         "Renewable Energy",
+         "Data Cleaning",
+         "Energy Modeling"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transition-zero/snakemake-feo": {
+      "use_cases": [
+         "Scientific Data Analysis Workflow Management",
+         "Bioinformatics Pipeline Automation",
+         "Computational Research Reproducibility Tool",
+         "Large-Scale Data Processing Framework",
+         "Scalable Computational Research Software"
+      ],
+      "topics": [
+         "Workflow Management",
+         "Bioinformatics",
+         "Data Analysis",
+         "Scientific Computing",
+         "Python"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transitland/finderjs": {
+      "use_cases": [
+         "User Interface Component Library",
+         "Interactive Hierarchical Content Browser",
+         "Web Application Navigation Component",
+         "Dynamic Data Column Explorer",
+         "Asynchronous Content Selector"
+      ],
+      "topics": [
+         "ui components",
+         "hierarchical data navigation",
+         "javascript library",
+         "web interface design",
+         "interactive user interface"
+      ],
+      "date": "2025-01-16"
+   },
+   "https://github.com/transitland/geohash": {
+      "use_cases": [
+         "Geospatial Location Encoding",
+         "Mapping Coordinate Conversion",
+         "Geographic Position Approximation",
+         "Location-based Data Indexing",
+         "Geocoding Reference System"
+      ],
+      "topics": [
+         "Geolocation",
+         "Encoding",
+         "Mapping",
+         "Geographic Information Systems",
+         "Ruby Programming"
+      ],
+      "date": "2025-01-16"
    }
 }
